@@ -1,4 +1,4 @@
-let grade= document.getElementById('digit').value;
+let grade= document.getElementById('grade').value;
 
 
 function calculateGrade(grade){
